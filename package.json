@@ -1,0 +1,27 @@
+{
+  "name": "createrouterplugin",
+  "version": "1.0.0",
+  "description": "create router plugin for jointwisdom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnqing/createRouterPlugin.git"
+  },
+  "keywords": [
+    "router",
+    "jointwisdom",
+    "plugin"
+  ],
+  "author": "charles liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnqing/createRouterPlugin/issues"
+  },
+  "homepage": "https://github.com/Johnqing/createRouterPlugin#readme",
+  "dependencies": {
+    "glob": "^7.1.3"
+  }
+}
